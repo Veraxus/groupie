@@ -28,6 +28,9 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 
 $GROUPIE = new Groupie();
 
+/**
+ * Class Groupie
+ */
 class Groupie
 {
 
@@ -61,6 +64,7 @@ class Groupie
         $this->hooks();
     }
 
+	
 	/**
 	 * Set up all plugin properties
 	 */
